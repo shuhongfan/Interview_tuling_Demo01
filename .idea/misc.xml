@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/MyHashMap/pom.xml" />
+        <option value="$PROJECT_DIR$/classLoader/pom.xml" />
+        <option value="$PROJECT_DIR$/Lock/pom.xml" />
       </list>
     </option>
   </component>
